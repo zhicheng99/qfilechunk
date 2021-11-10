@@ -1,0 +1,14 @@
+{
+  "name": "qfilechunk",
+  "version": "1.0.3",
+  "description": "大文件分块工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fileChunk"
+  ],
+  "author": "lizhicheng99@163.com",
+  "license": "ISC"
+}
